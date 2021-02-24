@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+}
+
+.main{
+    margin: 0 auto;
+    width: 80%;
+    border: 2px solid gray;
+    padding: 20px;
+    background-color: cyan;
+
+}
+h2{
+    font-style: italic;
+    margin-top: 0px;
+    color: darkred;
+}
