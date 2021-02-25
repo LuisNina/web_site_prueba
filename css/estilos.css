@@ -2,25 +2,68 @@ body{
     margin:0px;
 
 }
+.header{
+    background-color: violet;
+    box-shadow: 10px 10px 10px rgb(247, 176, 247);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    height: 90px;
+}
+.header figure{
+    width: 150px;
+    height: 80px;
+    margin: 0;
+    margin-left: 20px;
+    padding: 0;
+}
+.header figure img{
+    height: inherit;
+}
+.menu{
+    height: inherit;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: inherit;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    height: inherit;
+}
+.link{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin: 0px 20px;
+    color: white;
+    height: inherit;
+}
 .encabezado{
-    border: 1px solid black;
-    background-color: lightblue;
-    padding: 30px;
-    box-shadow: 10px 10px 10px dimgray;
+    padding: 20px;
     text-align: center;
-    font-weight: bold;
-    font-size: larger;
+    font-weight: 500;
+    font-size:15px;
+
 
 
 }
 
 .main{
     margin: 0 auto;
-    width: 60%;
-    border: 2px solid black;
-    padding: 20px;
-    background-color:moccasin;
+    background-color:rgb(252, 237, 213);
+    margin: 0px 20px;
+    padding: 0px 10px;
 
+}
+.main h1{
+    margin: 0px;
+    color: rgba(11, 148, 125, 0.938);
 }
 h3{
     color:chocolate;
