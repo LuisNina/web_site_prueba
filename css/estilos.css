@@ -25,3 +25,13 @@ body{
 h3{
     color:chocolate;
 }
+.footer{
+    background-color: rgb(116, 28, 57);
+    color: white;
+    height: 70px;
+}
+.footer  p{
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+    
+}
