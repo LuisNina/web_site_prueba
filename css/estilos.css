@@ -5,14 +5,18 @@ body{
 }
 .header{
     /* background-color: violet; */
-    box-shadow: 10px 10px 10px rgb(247, 176, 247);
+    box-shadow: 0px 10px 10px rgb(24, 23, 24);
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
     height: 90px;
     width: 100%;
+<<<<<<< HEAD
     background-color: deeppink;
+=======
+    background-color: rgb(243, 218, 108);
+>>>>>>> header
 }
 .header figure{
     width: 150px;
@@ -28,7 +32,7 @@ body{
     height: inherit;
 }
 .encabezado h2{
-    color: firebrick;
+    color: rgb(14, 55, 240);
 }
 .menu{
     height: inherit;
@@ -50,8 +54,9 @@ ul li{
     display: flex;
     align-items: center;
     margin: 0px 20px;
-    color: white;
+    color: rgb(32, 18, 230);
     height: inherit;
+    font-size: 25px;
 }
 .encabezado{
     padding: 20px;
