@@ -92,12 +92,13 @@ h3{
     color: lawngreen;
 }
 .footer{
-    background-color: rgb(116, 28, 57);
-    color: white;
+    background-color: rgb(190, 125, 125);
+    color: rgb(6, 2, 250);
     height: 70px;
 }
 .footer  p{
     padding: 20px 0px 0px 0px;
     text-align: center;
+    
     
 }
