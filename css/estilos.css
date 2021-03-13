@@ -12,7 +12,7 @@ body{
     margin-bottom: 10px;
     height: 90px;
     width: 100%;
-    background-color: rgb(243, 218, 108);
+    background-color: rgb(144, 108, 243);
 }
 .header figure{
     width: 150px;
@@ -47,7 +47,7 @@ ul li{
     display: flex;
     align-items: center;
     margin: 0px 20px;
-    color: rgb(32, 18, 230);
+    color: rgb(247, 246, 250);
     height: inherit;
     font-size: 25px;
 }
